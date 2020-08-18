@@ -1,5 +1,5 @@
 # Code: Online Art_Gallery
-#Welcome to Chroma Vesalius!
+# Welcome to Chroma Vesalius!
 (Chroma - Paint (Greek), Vesalius - Exhibit (Latin))
 
 Disclaimer: This project focuses mostly on back-end, and hence the styling is minimial.
